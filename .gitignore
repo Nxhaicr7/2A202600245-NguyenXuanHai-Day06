@@ -1,0 +1,6 @@
+# Editor/office temp files
+.~lock.*#
+*.swp
+*.swo
+*~
+.DS_Store
